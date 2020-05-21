@@ -1,5 +1,5 @@
 # SandSim
-Particle Simulation //Udelat to bylo mnohem tezsi nez by se mohlo zdat
+Particle Simulation 
 
 -exe a relevantni soubory = publish.zip
 -zdrojak, program kod = Program.cs , SandSimulator.csproj
